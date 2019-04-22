@@ -26,5 +26,5 @@ I have put together some of the most interesting data science articles/tutorials
 
 [Pretty good article on what one must do succeed as a data scientist](https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b)
 
-[Practical Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf)
+[Columbia Univeristy:Practical Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf)
 
