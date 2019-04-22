@@ -13,7 +13,9 @@ I have put together some of the most interesting data science articles/tutorials
 ### AI/Deep Learning
 
 [Stanford Deep Learning Class CS 20](https://web.stanford.edu/class/cs20si/syllabus.html)
+
 [Stanford NLP Class](http://web.stanford.edu/class/cs224n/)
+
 [CMU AI course](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/index.html)
 
 
@@ -21,4 +23,6 @@ I have put together some of the most interesting data science articles/tutorials
 ### Misc
 
 [2017 list of best AI/ML resources](https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d)
+
+[Pretty good article on what one must do succeed as a data scientist](https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b)
 
