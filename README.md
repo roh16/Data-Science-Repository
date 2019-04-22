@@ -24,7 +24,7 @@ I have put together some of the most interesting data science articles/tutorials
 
 [2017 list of best AI/ML resources](https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d)
 
-[Pretty good article on what one must do succeed as a data scientist](https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b) *[Robert Changs DS curricullum]*(https://github.com/robert8138/python-deliberate-practice)
+[Pretty good article on what one must do succeed as a data scientist](https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b) (https://github.com/robert8138/python-deliberate-practice)*[Robert Changs DS curricullum]*
 
 [Columbia Univeristy:Practical Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf)
 
