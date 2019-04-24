@@ -5,6 +5,7 @@ I have put together some of the most interesting data science articles/tutorials
 ### Machine Learning
 
 [Intro to Statstical learning](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+
 [DS 109 Harvard](http://cs109.github.io/2015/)
 
 
