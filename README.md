@@ -4,11 +4,18 @@ I have put together some of the most interesting data science articles/tutorials
 
 ### Machine Learning
 
+[Intro to Statstical learning](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+[DS 109 Harvard](http://cs109.github.io/2015/)
+
 
 ### Statistics
 
+ [Probabilistic Learning: Theory and Algorithms](https://www.ics.uci.edu/~smyth/courses/cs274/notes.html)
+ 
+
 ### Experimentation
 [Data Science for A/B testing](https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a)
+
 
 ### AI/Deep Learning
 
@@ -17,6 +24,8 @@ I have put together some of the most interesting data science articles/tutorials
 [Stanford NLP Class](http://web.stanford.edu/class/cs224n/)
 
 [CMU AI course](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/index.html)
+
+[Deep Learning book by Ian Goodfellow](http://www.deeplearningbook.org/)
 
 
 
@@ -29,4 +38,5 @@ I have put together some of the most interesting data science articles/tutorials
 [Robert Changs DS curricullum](https://github.com/robert8138/python-deliberate-practice)
 
 [Columbia Univeristy:Practical Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf)
+
 
