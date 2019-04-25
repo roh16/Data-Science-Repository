@@ -31,7 +31,7 @@ I have put together some of the most interesting data science articles/tutorials
 
 ### Python
 
-[CS 161 : Algorithms course from Stanford]https://web.stanford.edu/class/cs161/schedule.html
+[CS 161 : Algorithms course from Stanford](https://web.stanford.edu/class/cs161/schedule.html)
 
 
 ### Misc
