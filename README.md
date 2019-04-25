@@ -29,6 +29,10 @@ I have put together some of the most interesting data science articles/tutorials
 [Deep Learning book by Ian Goodfellow](http://www.deeplearningbook.org/)
 
 
+#### Python
+
+[CS 161 : Algorithms course from Stanford]https://web.stanford.edu/class/cs161/schedule.html
+
 
 ### Misc
 
