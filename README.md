@@ -6,6 +6,8 @@ I have put together some of the most interesting data science articles/tutorials
 
 [Intro to Statstical learning](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
 
+[Elements of Statstical learning](http://statweb.stanford.edu/~tibs/stat315a/)
+
 [DS 109 Harvard](http://cs109.github.io/2015/)
 
 
