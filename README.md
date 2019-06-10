@@ -46,4 +46,6 @@ I have put together some of the most interesting data science articles/tutorials
 
 [Columbia Univeristy:Practical Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf)
 
+[Randy Lao's Blog](https://www.claoudml.com/)
+
 
